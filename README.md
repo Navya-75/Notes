@@ -1,4 +1,4 @@
-# 📒 Notes Keeper
+#  Notes Keeper
 
 A simple HTML, CSS, and JavaScript app to create and manage notes in your browser.
 
